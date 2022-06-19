@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Bootstrap/TinDog"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
